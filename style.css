@@ -1,3 +1,15 @@
-.wow {
+.head {
   width: 100px;
+}
+.body {
+  text-align: center;
+  padding: 115px;
+}
+.Image {
+    height: 200px;
+    width: 400px;
+    border: 5px solid #lightblue;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 200px 0px 200px;
 }
